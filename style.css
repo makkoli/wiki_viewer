@@ -1,0 +1,71 @@
+body {
+  margin-top: 40px;
+  margin-left: 40px;
+  background-image: url('./books.jpeg');
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+#container {
+  background: rgba(198, 198, 198, 0.75);
+  height: auto !important;
+  height: 100%;
+  min-height: 100%;
+  width: 50%;
+  margin-bottom: 40px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  text-align: center;
+  padding: 10px;
+}
+
+input[type="text"] {
+  width: 200px;
+  height: auto;
+  padding-right: 50px;
+}
+
+button {
+  margin-left: -50px;
+  height: auto;
+  width: 50px;
+}
+
+.result {
+  height: auto;
+  width: 75%;
+  margin: auto;
+  margin-bottom: 25px;
+  padding-left: 5px;
+  background: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 10px;
+  text-align: left;
+}
+
+h1 {
+  font-family: 'Yellowtail', cursive;
+}
+
+form {
+  margin-bottom: 15px;
+}
+
+p {
+  margin-left: 10px;
+}
+
+h4 {
+  margin-bottom: 3px;
+}
+
+h6 {
+  margin-bottom: 15px;
+}
+
+a {
+  color: black;
+}
